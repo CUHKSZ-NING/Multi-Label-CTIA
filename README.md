@@ -15,7 +15,7 @@ Code for manuscript `Towards Multi-Label Disease Detection Using Imbalanced Tong
 
 * Import: `from MEFAClassifier import MEFAClassifier`
 
-* Train: `fit(X, y)`, with target $\textbf{y}_i \in \{0, 1\}^l$ as the labels. 
+* Train: `fit(X, y)`, with target $\textbf{y}_i \in /{0, 1/}^l$ as the labels. 
 
 * Predict: `predict(X)` (hard prediction), `predict_proba(X)` (probalistic prediction).
 
