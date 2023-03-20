@@ -17,6 +17,10 @@ Code for manuscript `Towards Multi-Label Disease Detection Using Imbalanced Tong
 
 * Train: `fit(X, y)`, with target $\textbf{y}_i \in {{0, 1}}^l$ as the labels. 
 
+{% raw %}
+  In Handlebars, {{ this }} will be HTML-escaped, but {{{ that }}} will not.
+{% endraw %}
+
 * Predict: `predict(X)` (hard prediction), `predict_proba(X)` (probalistic prediction).
 
 * Parameters: 
