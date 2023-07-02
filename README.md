@@ -1,4 +1,4 @@
-# MEFAClassifier
+# Multi-Label CTIA
 
 Code and dataset for manuscript `Towards Multi-Label Disease Detection Using Imbalanced Tongue Data`.
 
