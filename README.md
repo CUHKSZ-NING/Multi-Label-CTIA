@@ -1,6 +1,6 @@
 # Multi-Label CTIA
 
-Code and dataset for manuscript `Towards Multi-Label Disease Detection Using Imbalanced Tongue Data`.
+Code and dataset for manuscript `[Towards Multi-Label Disease Detection Using Imbalanced Tongue Data](https://github.com/CUHKSZ-NING)`.
 
 * Required Python 3 packages:
     1. `numpy==1.21.5`
