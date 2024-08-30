@@ -21,5 +21,5 @@ Code and dataset for manuscript `Linked Meta Classifiers for Multi-Label Disease
 
 * Parameters: 
     1. `base_estimators`: a list of multiple (at least one) classifier objects with `predict_proba()` function
-    2. `n_loops`: an integer representing the number of iterations
+    2. `n_loops`: an integer indicating the number of iterations
     4. `meta_estimator`: classifier object with `predict_proba()` function, "meta classifier for MetaLink"
